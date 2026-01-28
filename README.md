@@ -60,6 +60,7 @@ to team-based projects.
 
 ### 📫 Connect with Me
 - GitHub: https://github.com/dgowthami22
+- LinkedIn: linkedin.com/in/gowthami-dalali-802958290
 
 ⭐ *Always eager to learn, improve, and grow in the software development field.*
 
