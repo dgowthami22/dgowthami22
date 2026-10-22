@@ -38,7 +38,7 @@ ExcelR EdTech
 ### 🎓 Education
 **Bachelor of Technology – Computer Science (AI)**  
 Vemu Institute of Technology  
-- GPA: 86%  
+- GPA: 75%  
 - Graduated: Apr 2025  
 **H.S.C - MPC**
 - GPA: 84%
